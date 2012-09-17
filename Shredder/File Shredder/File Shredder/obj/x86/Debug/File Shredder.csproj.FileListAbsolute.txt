@@ -1,0 +1,15 @@
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\bin\Debug\File Shredder.exe.config
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\bin\Debug\File Shredder.exe
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\bin\Debug\File Shredder.pdb
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\bin\Debug\Chemiculs.dll
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\bin\Debug\Chemiculs.pdb
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File_Shredder.frmMain.resources
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File_Shredder.Properties.Resources.resources
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File Shredder.exe
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File Shredder.pdb
+c:\Users\Lane\Documents\Visual Studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File_Shredder.Forms.frmOptions.resources
+C:\Users\Lane\documents\visual studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File_Shredder.Forms.frmComparer.resources
+C:\Users\Lane\documents\visual studio 2010\Projects\File Shredder\File Shredder\obj\x86\Debug\File_Shredder.Forms.frmPumper.resources
